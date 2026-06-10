@@ -1,0 +1,41 @@
+SQL
+
+Add HotelID di tabel Room, jadi setiap kamar terhubung ke hotel yang benar.
+
+
+Data sql
+Tambain validasi buat logika bias sama untuk harga dan tanggal.
+(kayua value nga bisa negative, Checkout must be after check-in, add unique ke service..notelp..email)
+
+tambah penghapusan otomatis untuk data relasi saat booking dihapus.
+
+query JOIN supaya kamar sesuai dengan hotel booking.
+
+query untuk mengecek jumlah data di setiap tabel.
+
+rapiin bagian nama anggota kelompok.
+
+* Updated explanation. minta gpt buat jelasi
+biar ngerti dikit
+
+
+Docs
+
+Update new tables sama normalization step sesuai sama sql yang gua gant
+tambah Hotel–Room ke relationship ERD.
+ Update functional dependencies.
+rapiin dikit
+
+* Updated the MySQL implementation explanation. minta gpt buat jelasin
+
+ppt
+
+Slide 10: remake crow foot sekaligus tambahin data baru
+sama	 slide 11 new benefits
+Slide 12: added a simple Before vs After
+remake chapter 5
+
+
+
+
+
