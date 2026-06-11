@@ -21,12 +21,12 @@ Folder **`Submission/`** berisi versi FINAL yang siap dikumpulkan:
 | File | Isi |
 |------|-----|
 | **`(sub) SejutaStay_Report.docx`** | Laporan lengkap Bab 1–5 (kasus, data UNF, anomali & FD, normalisasi step-by-step, ERD + kesimpulan) |
-| **`(sub) SejutaStay_Presentation.pptx`** | Slide presentasi 8 menit — sudah dilengkapi **speaker notes bahasa Indonesia + alokasi waktu** di setiap slide |
+| **`(sub) SejutaStay_Presentation.pptx`** | Slide presentasi 8 menit **berbahasa Indonesia** — dilengkapi **speaker notes naskah baca bahasa pemula + alokasi waktu** di setiap slide |
 | **`(sub) SejutaStay_Database.sql`** | Export database MySQL: 8 tabel 3NF, minimal 5 baris per tabel, query verifikasi — **sudah diuji jalan tanpa error** |
 
 File pendukung (tidak wajib dikumpulkan, untuk persiapan presentasi):
 
-- **`Naskah_Presentasi_8_Menit.docx`** — naskah lengkap per slide dalam bahasa Indonesia, pembagian presenter, dan tips.
+- **`Naskah_Presentasi_8_Menit.docx`** — naskah baca lengkap per slide dengan **bahasa pemula** (tinggal dibaca di depan kelas), pembagian presenter, dan tips.
 - File-file di root repo (`SejutaStay_Report_Revised_Final.docx`, `SejutaStay_Presentation.pptx`, `SejutaStay_Database.sql`) adalah versi kerja sebelumnya dan tetap dipertahankan sebagai arsip.
 
 ## Kesesuaian dengan Soal (`AOL Database Technology (COMP6799001).docx`)
